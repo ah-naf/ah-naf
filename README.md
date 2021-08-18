@@ -19,7 +19,7 @@
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
-- ✨ Frontend Development
+- ✨ React
 
 ### - Hobbies : 
 - ✨ Gaming Addict
