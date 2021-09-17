@@ -18,7 +18,9 @@
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
 ### - Currently Learning :
-- <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="c++" width="120" height="40" align="center">
+- <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="c++" width="120" height="40" align="center">
+
+
 
 ### - Hobbies : 
 - ✨ Gaming Addict
