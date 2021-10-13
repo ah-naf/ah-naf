@@ -18,7 +18,6 @@
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
 ### - Currently Learning :
-<img  src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" width="120" height="50">
 
 
 
