@@ -60,16 +60,6 @@
 </br>
 </p>
 
-# Learning Platforms I Use 👨‍💻:
-<p align="center">
-<img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" width="120" height="40">
-<img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" width="120" height="40">
- <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" width="120" height="40">
-</p>
-
-</br>
-</br>
-</br>
 
 
 
